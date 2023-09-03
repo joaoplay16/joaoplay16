@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.tenor.com/VT9r0GR_F3cAAAAd/koko-the-clown-dance.gif" >
+  <img src="https://s11.gifyu.com/images/SgfFr.gif" >
 </p> 
 
  <!--![Snake animation](https://github.com/joaoplay16/joaoplay16/blob/output/contributions.svg) -->

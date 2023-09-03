@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://s11.gifyu.com/images/SgfFr.gif" >
+  <img src="https://s11.gifyu.com/images/SgfUS.gif" >
 </p> 
 
  <!--![Snake animation](https://github.com/joaoplay16/joaoplay16/blob/output/contributions.svg) -->
